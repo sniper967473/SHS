@@ -64,8 +64,13 @@ body {
 }
 /* End Landing */
 
-
-
+.img-size{
+  height: 100px;
+  width: auto;
+}
+.marginRight{ 
+  margin-right: 10px;
+}
 
 /* Start Features */
 .features .icon-holder {
